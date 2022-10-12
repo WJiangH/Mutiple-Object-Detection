@@ -15,4 +15,4 @@ example of drawing a box around a image, (original, with_bounding_ox)
 </p>
 
 and the final result
- <img src='result.png' width="200" height="200"/>
+ <img src='result.png' width="2000" height="200"/>
