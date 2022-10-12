@@ -10,4 +10,9 @@ Work in this Code:
 
 example of drawing a box around a image, 
 
-<img src='original_num.png'>,  <img src='boudning_box_num.png', width="200", height="200">
+
+<p float="left">
+  <img src='original_num.png' width="100" />
+  <img src='boudning_box_num.png' width="100" /> 
+</p>
+
