@@ -7,3 +7,8 @@ This work presents two examples of using transfer-learning to do image classific
 Work in this Code:
 - classify the main subject in an image
 - localize it by drawing bounding boxes around it.
+
+example of drawing a box around a image, 
+
+<img src='original_num.png'>
+<img src='boudning_box_num.png'>
