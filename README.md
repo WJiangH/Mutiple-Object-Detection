@@ -8,11 +8,11 @@ Work in this Code:
 - classify the main subject in an image
 - localize it by drawing bounding boxes around it.
 
-example of drawing a box around a image, 
-
-
+example of drawing a box around a image, (original, with_bounding_ox)
 <p float="left">
   <img src='original_num.png' width="200" height="200"/>
   <img src='boudning_box_num.png' width="200" height="200"/> 
 </p>
 
+and the final result
+ <img src='result.png' width="200" height="200"/>
