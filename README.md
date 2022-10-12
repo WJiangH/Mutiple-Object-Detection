@@ -12,7 +12,7 @@ example of drawing a box around a image,
 
 
 <p float="left">
-  <img src='original_num.png' width="100" />
-  <img src='boudning_box_num.png' width="100" /> 
+  <img src='original_num.png' width="200" height="200"/>
+  <img src='boudning_box_num.png' width="200" height="200"/> 
 </p>
 
