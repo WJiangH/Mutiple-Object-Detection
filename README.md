@@ -26,7 +26,7 @@ The result:<br>
 
 ### 3. **`faster_RCNN_multiple_object_detection.ipynb`**
 - use the model from the [tensorflow_hub](https://tfhub.dev/), including 
-1. * [ssd + mobilenet V2](https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2) small and fast.
+1. * [ssd + mobilenet V2](https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2): small and fast.
 2. * [FasterRCNN + InceptionResNet V2](https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1): high accuracy
 - image can be downloaded from the wikimedia or using local image
 
