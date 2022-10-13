@@ -39,8 +39,8 @@ result:<br>
 
 2. the photo of my office: <br>
 <p float="left">
-  <img src='./img/office.jpeg' width="640" height="480"/>
-  <img src='./img/office_result.jpg' width="640" height="480"/> 
+  <img src='./img/office.jpeg' width="500" height="400"/>
+  <img src='./img/office_result.jpg' width="500" height="400"/> 
 </p>
 
 
