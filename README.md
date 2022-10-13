@@ -33,8 +33,8 @@ The result:<br>
 result:<br>
 1. the online image:<br>
 <p float="left">
-  <img src='./img/Naxos_Taverna.jpg' width="440" height="280"/>
-  <img src='./img/Naxos_Taverna_result.jpg' width="440" height="280"/> 
+  <img src='./img/Naxos_Taverna.jpg' width="500" height="300"/>
+  <img src='./img/Naxos_Taverna_result.jpg' width="500" height="300"/> 
 </p>
 
 2. the photo of my office: <br>
