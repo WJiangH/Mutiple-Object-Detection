@@ -31,11 +31,16 @@ The result:<br>
 - image can be downloaded from the wikimedia or using local image
 
 result:<br>
-1. using the online image
-
+1. the online image:<br>
 <p float="left">
   <img src='./img/Naxos_Taverna.jpg' width="640" height="480"/>
   <img src='./img/Naxos_Taverna_result.jpg' width="640" height="480"/> 
+</p>
+
+2. the photo of my office: <br>
+<p float="left">
+  <img src='./img/office.jpg' width="640" height="480"/>
+  <img src='./img/office_result.jpg' width="640" height="480"/> 
 </p>
 
 
