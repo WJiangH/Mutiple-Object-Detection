@@ -34,8 +34,8 @@ result:<br>
 1. using the online image
 
 <p float="left">
-  <img src='./img/Naxos_Taverna.jpg' width="200" height="200"/>
-  <img src='./img/Naxos_Taverna_result.jpg' width="200" height="200"/> 
+  <img src='./img/Naxos_Taverna.jpg' width="640" height="480"/>
+  <img src='./img/Naxos_Taverna_result.jpg' width="640" height="480"/> 
 </p>
 
 
